@@ -1,0 +1,4 @@
+*.yaml
+Dockerfile
+Earthfile
+data
